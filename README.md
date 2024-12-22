@@ -1,34 +1,20 @@
-<div align="center">
-    <!-- Gif -->
-    <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="500" alt="Programer</>" />
-    <!-- Name -->
-    <h1>
-        Hello, My name is Amir Mohammad Firouzi
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-    </h1>
-    <p font-size="1.2em" color="#555">
-    my name is **Amir Mohammad**, a **web developer** who is deeply passionate about designing and **developing websites** and **web applications**. I enjoy exploring new technologies and am always striving to improve my skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and share my knowledge through tutorials and blog posts.
-    </p>
-</div>
-
 ## 🌐 Socials:
 
 ## Socials
 
-<p align="center">
-    <a href="https://youtube.com/@AmirMohammadFirouzii">
-        <img alt="Youtube" src="https://img.shields.io/badge/YouTube-ff0000.svg?logo=youtube&logoColor=white" />
-    </a>
-    <a href="https://t.me/AmirMohammadFirouzi">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&logoColor=white" />
-    </a>
-    <a href="AmirMohammadFirouzi@gmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white" />
-    </a>
-</p>
+<div align="center">
+    <h1>
+        <span>Hey There</span>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+    </h1>
+    <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="500" alt="Programer</>" />
+    <p id="about-me">
+        my name is **Amir Mohammad**, a **web developer** who is deeply passionate about designing and **developing
+        websites** and **web applications**. I enjoy exploring new technologies and am always striving to improve my
+        skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and
+        share my knowledge through tutorials and blog posts.
+    </p>
+</div>
 
 # 💻 Tech Stack:
 
