@@ -1,4 +1,4 @@
-<body align="center">
+<div align="center">
     <!-- Gif -->
     <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="500" alt="Programer</>" />
     <!-- Name -->
@@ -10,4 +10,4 @@
     <!-- Sentence about me -->
     <p font-size="1.2em" color="#555">I am a web developer passionate about creating engaging user experiences.
     </p>
-</body>
+</div>
