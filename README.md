@@ -24,7 +24,7 @@ share my knowledge through tutorials and blog posts.
         <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram" />
     </a>
     <a href="https://t.me/AmirMohammadFirouzi">
-        <img alt="Telegram" src="https://skillicons.dev/icons?i=twitter" />
+        <img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" with="48px" />
     </a>
     <a href="https://linkedin.com/">
         <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
