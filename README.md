@@ -1,6 +1,6 @@
 <body style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 50px;" align='center'>
     <!-- Logo -->
-    <img src="your-logo-url.png" alt="My Logo" style="width: 100px; height: auto; margin-bottom: 20px;">
+    <img src="babaii.gif" alt="Programer" style="width: 100px; height: auto; margin-bottom: 20px;">
     <!-- Name -->
     <h1 style="font-size: 2.5em; color: #333; align='center'">Amir Mohammad</h1>
     <!-- Line -->
