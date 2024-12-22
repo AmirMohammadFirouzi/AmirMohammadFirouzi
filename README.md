@@ -17,7 +17,7 @@ improve my
 skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and
 share my knowledge through tutorials and blog posts.
 
-## 👨‍💻 Socials:
+## 👨 Socials:
 
 <p align="center">
     <a href="https://youtube.com/@AmirMohammadFirouzii">
@@ -82,7 +82,7 @@ share my knowledge through tutorials and blog posts.
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![](https://visitcount.itsvg.in/api?id=amirmohammadfirouzi&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Languages
 
