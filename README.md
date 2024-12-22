@@ -80,7 +80,7 @@ share my knowledge through tutorials and blog posts.
     <img alt="Your GitHub Stats"
         src="https://github-readme-stats.vercel.app/api?username=amirmohammadfirouzi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
     <img alt="Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmohammadfirouzi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmohammadfirouzi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="100%" />
 </p>
 <p align="center">
     <img alt="Random Dev Quote"
