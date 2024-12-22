@@ -20,17 +20,17 @@ share my knowledge through tutorials and blog posts.
 ## 👨 Socials:
 
 <p align="center">
-    <a href="https://youtube.com/@AmirMohammadFirouzii">
-        <img alt="Youtube" src="https://img.shields.io/badge/YouTube-ff0000.svg?logo=youtube&logoColor=white" />
+    <a href="https://Instagram.com/">
+        <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram" />
     </a>
     <a href="https://t.me/AmirMohammadFirouzi">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-1da1f2.svg?logo=telegram&logoColor=white" />
+        <img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
     </a>
     <a href="https://linkedin.com/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5.svg?logo=linkedin&logoColor=white" />
+        <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     <a href="AmirMohammadFirouzi@gmail.com">
-        <img alt="Email" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white" />
+        <img alt="Email" src="https://skillicons.dev/icons?i=gmail" />
     </a>
 </p>
 
