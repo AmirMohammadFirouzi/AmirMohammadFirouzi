@@ -37,7 +37,7 @@ share my knowledge through tutorials and blog posts.
 # 💻 Tech Stack:
 
 [![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
-[![Windows](https://img.shields.io/badge/Windows-0b9ffd?style=flat&logo=windows&logoColor=white)](https://microsoft.com/)
+[![Windows](https://img.shields.io/badge/-Windows-0b9ffd?style=flat&logo=windows&logoColor=white)](https://microsoft.com/)
 [![Docker](https://img.shields.io/badge/Docker-0b9ffd?style=flat&logo=docker&logoColor=white)](https://docker.com/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
