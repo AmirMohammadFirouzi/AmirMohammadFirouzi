@@ -17,7 +17,7 @@ improve my
 skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and
 share my knowledge through tutorials and blog posts.
 
-## 🌐 Socials:
+## 👨‍💻 Socials:
 
 <p align="center">
     <a href="https://youtube.com/@AmirMohammadFirouzii">
@@ -69,6 +69,11 @@ share my knowledge through tutorials and blog posts.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 
+## Currently Learning
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=amirmohammadfirouzi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -82,7 +87,7 @@ share my knowledge through tutorials and blog posts.
 [![](https://visitcount.itsvg.in/api?id=amirmohammadfirouzi&icon=5&color=1)](https://visitcount.itsvg.in)
 
 
-## Languages
+## 🌐 Languages
 
 - **English**: Beginner
 - **Persian**: Native
