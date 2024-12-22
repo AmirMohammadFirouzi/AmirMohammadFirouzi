@@ -36,6 +36,10 @@ share my knowledge through tutorials and blog posts.
 
 # 💻 Tech Stack:
 
+[![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=222222)](https://linux.org/)
+[![Windows](https://img.shields.io/badge/Windows-fcc624?style=flat&logo=windows&logoColor=222222)](https://microsoft.com/)
+[![Docker](https://img.shields.io/badge/Docker-0b9ffd?style=flat&logo=docker&logoColor=white)](https://docker.com/)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -74,3 +78,9 @@ share my knowledge through tutorials and blog posts.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=amirmohammadfirouzi&icon=5&color=1)](https://visitcount.itsvg.in)
+
+
+## Languages
+
+- **English**: Beginner
+- **Persian**: Native
