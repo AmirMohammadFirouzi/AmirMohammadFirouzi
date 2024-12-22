@@ -30,7 +30,7 @@ share my knowledge through tutorials and blog posts.
         <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     <a href="AmirMohammadFirouzi@gmail.com">
-        <img alt="Email" src="https://skillicons.dev/icons?i=gmail" />
+        <img alt="Email" src="https://skillicons.dev/icons?i=gmail&theme=light" />
     </a>
 </p>
 
