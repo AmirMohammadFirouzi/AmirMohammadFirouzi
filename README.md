@@ -1,15 +1,19 @@
-<div align="center">
+<div id="container">
     <h1>
         <span>Hey There</span>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
     </h1>
-    <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="500" alt="Programer</>" />
-    <p id="about-me">
-        my name is **Amir Mohammad**, a **web developer** who is deeply passionate about designing and **developing
-        websites** and **web applications**. I enjoy exploring new technologies and am always striving to improve my
-        skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and
-        share my knowledge through tutorials and blog posts.
-    </p>
+    <div align="center">
+        <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="500" alt="Programer</>" />
+        <p id="about-me">
+            my name is **Amir Mohammad**, a **web developer** who is deeply passionate about designing and
+            **developing
+            websites** and **web applications**. I enjoy exploring new technologies and am always striving to
+            improve my
+            skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and
+            share my knowledge through tutorials and blog posts.
+        </p>
+    </div>
 </div>
 
 ## 🌐 Socials:
