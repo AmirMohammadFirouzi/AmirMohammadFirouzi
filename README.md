@@ -23,8 +23,8 @@ share my knowledge through tutorials and blog posts.
     <a href="https://Instagram.com/">
         <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram" />
     </a>
-    <a href="https://t.me/AmirMohammadFirouzi" with="48px">
-        <img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+    <a href="https://t.me/AmirMohammadFirouzi">
+        <img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48px"/>
     </a>
     <a href="https://linkedin.com/">
         <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
