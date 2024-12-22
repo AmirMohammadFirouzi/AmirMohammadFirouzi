@@ -13,6 +13,7 @@
             skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and
             share my knowledge through tutorials and blog posts.
         </p>
+        <br />
     </div>
 </div>
 
