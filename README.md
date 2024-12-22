@@ -5,6 +5,7 @@
     </h1>
     <div align="center">
         <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="500" alt="Programer</>" />
+        <hr />
         <p id="about-me">
             my name is **Amir Mohammad**, a **web developer** who is deeply passionate about designing and
             **developing
@@ -13,7 +14,6 @@
             skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and
             share my knowledge through tutorials and blog posts.
         </p>
-        <hr />
     </div>
 </div>
 
