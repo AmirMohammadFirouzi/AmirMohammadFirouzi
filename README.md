@@ -8,7 +8,8 @@
     </h1>
     <!-- Line -->
     <!-- Sentence about me -->
-    <p font-size="1.2em" color="#555">I am a web developer passionate about creating engaging user experiences.
+    <p font-size="1.2em" color="#555">
+    my name is **Amir Mohammad**, a **web developer** who is deeply passionate about designing and **developing websites** and **web applications**. I enjoy exploring new technologies and am always striving to improve my skills. In my free time, I like to work on personal projects, contribute to open-source initiatives, and share my knowledge through tutorials and blog posts.
     </p>
 </div>
 
